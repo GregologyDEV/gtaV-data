@@ -1,0 +1,28 @@
+[
+    {
+        "weaponName": "weapon_pistol",
+        "weapon_hash": 453432689,
+        "components": [
+            {
+                "component_HashKey": "COMPONENT_PISTOL_CLIP_01",
+                "component_hash": 4275109233
+            },
+            {
+                "component_HashKey": "COMPONENT_PISTOL_CLIP_02",
+                "component_hash": 3978713628
+            },
+            {
+                "component_HashKey": "COMPONENT_AT_PI_FLSH",
+                "component_hash": 899381934
+            },
+            {
+                "component_HashKey": "COMPONENT_AT_PI_SUPP_02",
+                "component_hash": 1709866683
+            },
+            {
+                "component_HashKey": "COMPONENT_PISTOL_VARMOD_LUXE",
+                "component_hash": 3610841222
+            }
+        ]
+    }
+]
