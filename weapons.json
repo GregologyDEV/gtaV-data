@@ -2,7 +2,8 @@
     {
         "weaponName": "weapon_pistol",
         "weapon_hash": 453432689,
-        "weapon_gxtString": "WT_PIST",
+        "weapon_gxtString": "0xFE4FE1E6",
+        "weapon_ammoType": "AMMO_PISTOL",
         "components": [
             {
                 "component_HashKey": "COMPONENT_PISTOL_CLIP_01",
@@ -34,6 +35,8 @@
     {
         "weaponName": "weapon_pistol_mk2",
         "weapon_hash": 3219281620,
+        "weapon_gxtString": "0x29B8F601",
+        "weapon_ammoType": "AMMO_PISTOL",
         "components": [
             {
                 "component_HashKey": "COMPONENT_PISTOL_MK2_CLIP_01",
@@ -109,59 +112,59 @@
             },
             {
                 "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_09",
-                "component_hash": 3610841222 //Tu zacząć
+                "component_hash": 999999999999
             },
             {
                 "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_10",
-                "component_hash": 3610841222
+                "component_hash": 999999999999
             },
             {
                 "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_IND_01",
-                "component_hash": 3610841222
+                "component_hash": 999999999999
             },
             {
                 "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_SLIDE",
-                "component_hash": 3610841222
+                "component_hash": 999999999999
             },
             {
                 "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_02_SLIDE",
-                "component_hash": 3610841222
+                "component_hash": 999999999999
             },
             {
                 "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_03_SLIDE",
-                "component_hash": 3610841222
+                "component_hash": 999999999999
             },
             {
                 "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_04_SLIDE",
-                "component_hash": 3610841222
+                "component_hash": 999999999999
             },
             {
                 "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_05_SLIDE",
-                "component_hash": 3610841222
+                "component_hash": 999999999999
             },
             {
                 "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_06_SLIDE",
-                "component_hash": 3610841222
+                "component_hash": 999999999999
             },
             {
                 "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_07_SLIDE",
-                "component_hash": 3610841222
+                "component_hash": 999999999999
             },
             {
                 "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_08_SLIDE",
-                "component_hash": 3610841222
+                "component_hash": 999999999999
             },
             {
                 "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_09_SLIDE",
-                "component_hash": 3610841222
+                "component_hash": 999999999999
             },
             {
                 "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_10_SLIDE",
-                "component_hash": 3610841222
+                "component_hash": 999999999999
             },
             {
                 "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_IND_01_SLIDE",
-                "component_hash": 3610841222
+                "component_hash": 999999999999
             }
         ]
     }
