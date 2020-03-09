@@ -2,169 +2,444 @@
     {
         "weaponName": "weapon_pistol",
         "weapon_hash": 453432689,
-        "weapon_gxtString": "0xFE4FE1E6",
+        "weapon_gxtString_Name": "WT_PIST",
+        "weapon_gxtString_Desc": "WT_PIST_DESC",
         "weapon_ammoType": "AMMO_PISTOL",
         "components": [
             {
-                "component_HashKey": "COMPONENT_PISTOL_CLIP_01",
+                "component_name": "COMPONENT_PISTOL_CLIP_01",
                 "component_hash": 4275109233,
-                "component_gxtString": ""
+                "component_gxtString_Name": "WCT_CLIP1",
+                "component_gxtString_Desc": "WCD_P_CLIP1"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_CLIP_02",
+                "component_name": "COMPONENT_PISTOL_CLIP_02",
                 "component_hash": 3978713628,
-                "component_gxtString": ""
+                "component_gxtString_Name": "WCT_CLIP2",
+                "component_gxtString_Desc": "WCD_P_CLIP2"
             },
             {
-                "component_HashKey": "COMPONENT_AT_PI_FLSH",
+                "component_name": "COMPONENT_AT_PI_FLSH",
                 "component_hash": 899381934,
-                "component_gxtString": ""
+                "component_gxtString_Name": "WCT_FLASH",
+                "component_gxtString_Desc": "WCD_FLASH"
             },
             {
-                "component_HashKey": "COMPONENT_AT_PI_SUPP_02",
+                "component_name": "COMPONENT_AT_PI_SUPP_02",
                 "component_hash": 1709866683,
-                "component_gxtString": ""
+                "component_gxtString_Name": "WCT_SUPP",
+                "component_gxtString_Desc": "WCD_PI_SUPP"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_VARMOD_LUXE",
+                "component_name": "COMPONENT_PISTOL_VARMOD_LUXE",
                 "component_hash": 3610841222,
-                "component_gxtString": ""
+                "component_gxtString_Name": "WCT_VAR_GOLD",
+                "component_gxtString_Desc": "WCD_VAR_P"
+
+            }
+        ],
+        "tints": [
+            {
+                "tint_Index": 0,
+                "tint_gtxStringName": "WM_TINT0"
+            },
+            {
+                "tint_Index": 1,
+                "tint_gtxStringName": "WM_TINT1"
+            },
+            {
+                "tint_Index": 2,
+                "tint_gtxStringName": "WM_TINT2"
+            },
+            {
+                "tint_Index": 3,
+                "tint_gtxStringName": "WM_TINT3"
+            },
+            {
+                "tint_Index": 4,
+                "tint_gtxStringName": "WM_TINT4"
+            },
+            {
+                "tint_Index": 5,
+                "tint_gtxStringName": "WM_TINT5"
+            },
+            {
+                "tint_Index": 6,
+                "tint_gtxStringName": "WM_TINT6"
+            },
+            {
+                "tint_Index": 7,
+                "tint_gtxStringName": "WM_TINT7"
             }
         ]
     },
     {
         "weaponName": "weapon_pistol_mk2",
         "weapon_hash": 3219281620,
-        "weapon_gxtString": "0x29B8F601",
+        "weapon_gxtString_Name": "WT_PIST2",
+        "weapon_gxtString_Desc": "WTD_PIST2",
         "weapon_ammoType": "AMMO_PISTOL",
         "components": [
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CLIP_01",
-                "component_hash": 2499030370
+                "component_name": "COMPONENT_PISTOL_MK2_CLIP_01",
+                "component_hash": 2499030370,
+                "component_gxtString_Name": "WCT_CLIP1",
+                "component_gxtString_Desc": "WCD_CLIP1"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CLIP_02",
-                "component_hash": 1591132456
+                "component_name": "COMPONENT_PISTOL_MK2_CLIP_02",
+                "component_hash": 1591132456,
+                "component_gxtString_Name": "WCT_CLIP2",
+                "component_gxtString_Desc": "WCD_CLIP2"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CLIP_TRACER",
-                "component_hash": 634039983
+                "component_name": "COMPONENT_PISTOL_MK2_CLIP_TRACER",
+                "component_hash": 634039983,
+                "component_gxtString_Name": "WCT_CLIP_TR",
+                "component_gxtString_Desc": "WCD_CLIP_TR"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CLIP_INCENDIARY",
-                "component_hash": 733837882
+                "component_name": "COMPONENT_PISTOL_MK2_CLIP_INCENDIARY",
+                "component_hash": 733837882,
+                "component_gxtString_Name": "WCT_CLIP_INC",
+                "component_gxtString_Desc": "WCD_CLIP_INC"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CLIP_HOLLOWPOINT",
-                "component_hash": 2248057097
+                "component_name": "COMPONENT_PISTOL_MK2_CLIP_HOLLOWPOINT",
+                "component_hash": 2248057097,
+                "component_gxtString_Name": "WCT_CLIP_HP",
+                "component_gxtString_Desc": "WCD_CLIP_HP"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CLIP_FMJ",
-                "component_hash": 1329061674
+                "component_name": "COMPONENT_PISTOL_MK2_CLIP_FMJ",
+                "component_hash": 1329061674,
+                "component_gxtString_Name": "WCT_CLIP_FMJ",
+                "component_gxtString_Desc": "WCD_CLIP_FMJ"
             },
             {
-                "component_HashKey": "COMPONENT_AT_PI_RAIL",
-                "component_hash": 2396306288
+                "component_name": "COMPONENT_AT_PI_RAIL",
+                "component_hash": 2396306288,
+                "component_gxtString_Name": "WCT_SCOPE_PI",
+                "component_gxtString_Desc": "WCD_SCOPE_PI"
             },
             {
-                "component_HashKey": "COMPONENT_AT_PI_FLSH_02",
-                "component_hash": 1140676955
+                "component_name": "COMPONENT_AT_PI_FLSH_02",
+                "component_hash": 1140676955,
+                "component_gxtString_Name": "WCT_FLASH",
+                "component_gxtString_Desc": "WCD_FLASH"
             },
             {
-                "component_HashKey": "COMPONENT_AT_PI_SUPP_02",
-                "component_hash": 1709866683
+                "component_name": "COMPONENT_AT_PI_SUPP_02",
+                "component_hash": 1709866683,
+                "component_gxtString_Name": "WCT_SUPP",
+                "component_gxtString_Desc": "WCD_PI_SUPP"
             },
             {
-                "component_HashKey": "COMPONENT_AT_PI_COMP",
-                "component_hash": 568543123
+                "component_name": "COMPONENT_AT_PI_COMP",
+                "component_hash": 568543123,
+                "component_gxtString_Name": "WCT_COMP",
+                "component_gxtString_Desc": "WCT_COMP"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO",
-                "component_hash": 1550611612
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO",
+                "component_hash": 1550611612,
+                "component_gxtString_Name": "WCT_CAMO_1",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_02",
-                "component_hash": 368550800
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_02",
+                "component_hash": 368550800,
+                "component_gxtString_Name": "WCT_CAMO_2",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_03",
-                "component_hash": 2525897947
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_03",
+                "component_hash": 2525897947,
+                "component_gxtString_Name": "WCT_CAMO_3",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_04",
-                "component_hash": 24902297
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_04",
+                "component_hash": 24902297,
+                "component_gxtString_Name": "WCT_CAMO_4",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_05",
-                "component_hash": 4066925682
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_05",
+                "component_hash": 4066925682,
+                "component_gxtString_Name": "WCT_CAMO_5",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_06",
-                "component_hash": 3710005734
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_06",
+                "component_hash": 3710005734,
+                "component_gxtString_Name": "WCT_CAMO_6",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_07",
-                "component_hash": 3141791350
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_07",
+                "component_hash": 3141791350,
+                "component_gxtString_Name": "WCT_CAMO_7",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_08",
-                "component_hash": 1301287696
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_08",
+                "component_hash": 1301287696,
+                "component_gxtString_Name": "WCT_CAMO_8",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_09",
-                "component_hash": 999999999999
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_09",
+                "component_hash": 1597093459,
+                "component_gxtString_Name": "WCT_CAMO_9",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_10",
-                "component_hash": 999999999999
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_10",
+                "component_hash": 1769871776,
+                "component_gxtString_Name": "WCT_CAMO_10",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_IND_01",
-                "component_hash": 999999999999
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_IND_01",
+                "component_hash": 2467084625,
+                "component_gxtString_Name": "WCT_CAMO_IND",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_SLIDE",
-                "component_hash": 999999999999
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_SLIDE",
+                "component_hash": 3036451504,
+                "component_gxtString_Name": "WCT_CAMO_1",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_02_SLIDE",
-                "component_hash": 999999999999
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_02_SLIDE",
+                "component_hash": 438243936,
+                "component_gxtString_Name": "WCT_CAMO_1",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_03_SLIDE",
-                "component_hash": 999999999999
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_03_SLIDE",
+                "component_hash": 3839888240,
+                "component_gxtString_Name": "WCT_CAMO_1",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_04_SLIDE",
-                "component_hash": 999999999999
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_04_SLIDE",
+                "component_hash": 740920107,
+                "component_gxtString_Name": "WCT_CAMO_1",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_05_SLIDE",
-                "component_hash": 999999999999
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_05_SLIDE",
+                "component_hash": 3753350949,
+                "component_gxtString_Name": "WCT_CAMO_1",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_06_SLIDE",
-                "component_hash": 999999999999
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_06_SLIDE",
+                "component_hash": 1809261196,
+                "component_gxtString_Name": "WCT_CAMO_1",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_07_SLIDE",
-                "component_hash": 999999999999
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_07_SLIDE",
+                "component_hash": 2648428428,
+                "component_gxtString_Name": "WCT_CAMO_1",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_08_SLIDE",
-                "component_hash": 999999999999
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_08_SLIDE",
+                "component_hash": 3004802348,
+                "component_gxtString_Name": "WCT_CAMO_1",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_09_SLIDE",
-                "component_hash": 999999999999
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_09_SLIDE",
+                "component_hash": 3330502162,
+                "component_gxtString_Name": "WCT_CAMO_1",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_10_SLIDE",
-                "component_hash": 999999999999
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_10_SLIDE",
+                "component_hash": 1135718771,
+                "component_gxtString_Name": "WCT_CAMO_1",
+                "component_gxtString_Desc": "WCD_INVALID"
             },
             {
-                "component_HashKey": "COMPONENT_PISTOL_MK2_CAMO_IND_01_SLIDE",
-                "component_hash": 999999999999
+                "component_name": "COMPONENT_PISTOL_MK2_CAMO_IND_01_SLIDE",
+                "component_hash": 1253942266,
+                "component_gxtString_Name": "WCT_CAMO_IND",
+                "component_gxtString_Desc": "WCD_INVALID"
+            }
+        ],
+        "tints": [
+            {
+                "tint_Index": 0,
+                "tint_gtxStringName": "WCT_TINT_0"
+            },
+            {
+                "tint_Index": 1,
+                "tint_gtxStringName": "WCT_TINT_1"
+            },
+            {
+                "tint_Index": 2,
+                "tint_gtxStringName": "WCT_TINT_2"
+            },
+            {
+                "tint_Index": 3,
+                "tint_gtxStringName": "WCT_TINT_3"
+            },
+            {
+                "tint_Index": 4,
+                "tint_gtxStringName": "WCT_TINT_4"
+            },
+            {
+                "tint_Index": 5,
+                "tint_gtxStringName": "WCT_TINT_5"
+            },
+            {
+                "tint_Index": 6,
+                "tint_gtxStringName": "WCT_TINT_6"
+            },
+            {
+                "tint_Index": 7,
+                "tint_gtxStringName": "WCT_TINT_7"
+            },
+            {
+                "tint_Index": 8,
+                "tint_gtxStringName": "WCT_TINT_8"
+            },
+            {
+                "tint_Index": 9,
+                "tint_gtxStringName": "WCT_TINT_9"
+            },
+            {
+                "tint_Index": 10,
+                "tint_gtxStringName": "WCT_TINT_10"
+            },
+            {
+                "tint_Index": 11,
+                "tint_gtxStringName": "WCT_TINT_11"
+            },
+            {
+                "tint_Index": 12,
+                "tint_gtxStringName": "WCT_TINT_12"
+            },
+            {
+                "tint_Index": 13,
+                "tint_gtxStringName": "WCT_TINT_13"
+            },
+            {
+                "tint_Index": 14,
+                "tint_gtxStringName": "WCT_TINT_14"
+            },
+            {
+                "tint_Index": 15,
+                "tint_gtxStringName": "WCT_TINT_15"
+            },
+            {
+                "tint_Index": 16,
+                "tint_gtxStringName": "WCT_TINT_16"
+            },
+            {
+                "tint_Index": 17,
+                "tint_gtxStringName": "WCT_TINT_17"
+            },
+            {
+                "tint_Index": 18,
+                "tint_gtxStringName": "WCT_TINT_18"
+            },
+            {
+                "tint_Index": 19,
+                "tint_gtxStringName": "WCT_TINT_19"
+            },
+            {
+                "tint_Index": 20,
+                "tint_gtxStringName": "WCT_TINT_20"
+            },
+            {
+                "tint_Index": 21,
+                "tint_gtxStringName": "WCT_TINT_21"
+            },
+            {
+                "tint_Index": 22,
+                "tint_gtxStringName": "WCT_TINT_22"
+            },
+            {
+                "tint_Index": 23,
+                "tint_gtxStringName": "WCT_TINT_23"
+            },
+            {
+                "tint_Index": 24,
+                "tint_gtxStringName": "WCT_TINT_24"
+            },
+            {
+                "tint_Index": 25,
+                "tint_gtxStringName": "WCT_TINT_25"
+            },
+            {
+                "tint_Index": 26,
+                "tint_gtxStringName": "WCT_TINT_26"
+            },
+            {
+                "tint_Index": 27,
+                "tint_gtxStringName": "WCT_TINT_27"
+            },
+            {
+                "tint_Index": 28,
+                "tint_gtxStringName": "WCT_TINT_28"
+            },
+            {
+                "tint_Index": 29,
+                "tint_gtxStringName": "WCT_TINT_29"
+            },
+            {
+                "tint_Index": 30,
+                "tint_gtxStringName": "WCT_TINT_30"
+            },
+            {
+                "tint_Index": 31,
+                "tint_gtxStringName": "WCT_TINT_31"
+            }
+        ]
+    },
+    {
+        "weaponName": "weapon_combatpistol",
+        "weapon_hash": 1593441988,
+        "weapon_gxtString_Name": "WT_PIST_CBT",
+        "weapon_gxtString_Desc": "WTD_PIST_CBT",
+        "weapon_ammoType": "AMMO_PISTOL",
+        "components": [
+            {
+                "component_name": "COMPONENT_COMBATPISTOL_CLIP_01",
+                "component_hash": 119648377,
+                "component_gxtString_Name": "WCT_CLIP1",
+                "component_gxtString_Desc": "WCD_CP_CLIP1"
+            },
+            {
+                "component_name": "COMPONENT_COMBATPISTOL_CLIP_02",
+                "component_hash": 3598405421,
+                "component_gxtString_Name": "WCT_CLIP2",
+                "component_gxtString_Desc": "WCD_CP_CLIP2"
+            },
+            {
+                "component_name": "COMPONENT_AT_PI_FLSH",
+                "component_hash": 899381934,
+                "component_gxtString_Name": "WCT_FLASH",
+                "component_gxtString_Desc": "WCD_FLASH"
+            },
+            {
+                "component_name": "COMPONENT_AT_PI_SUPP",
+                "component_hash": 3271853210,
+                "component_gxtString_Name": "WCT_SUPP",
+                "component_gxtString_Desc": "WCD_PI_SUPP"
+            },
+            {
+                "component_name": "COMPONENT_COMBATPISTOL_VARMOD_LOWRIDER",
+                "component_hash": 3328527730,
+                "component_gxtString_Name": "WCT_VAR_GOLD",
+                "component_gxtString_Desc": "WCD_VAR_CBP"
             }
         ]
     }
