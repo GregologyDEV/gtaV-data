@@ -1468,5 +1468,103 @@
                 "tint_gtxStringName": "WM_TINT7"
             }
         ]
+    },
+    {
+        "weaponName": "weapon_vintagepistol",
+        "weapon_hash": 137902532,
+        "weapon_gxtString_Name": "WT_VPISTOL",
+        "weapon_gxtString_Desc": "WTD_VPISTOL",
+        "weapon_ammoType": "AMMO_PISTOL",
+        "components": [
+            {
+                "component_name": "COMPONENT_VINTAGEPISTOL_CLIP_01",
+                "component_hash": 1168357051,
+                "component_gxtString_Name": "WCT_CLIP1",
+                "component_gxtString_Desc": "WCD_VPST_CLIP1"
+            },
+            {
+                "component_name": "COMPONENT_VINTAGEPISTOL_CLIP_02",
+                "component_hash": 867832552,
+                "component_gxtString_Name": "WCT_CLIP2",
+                "component_gxtString_Desc": "WCD_VPST_CLIP2"
+            },
+            {
+                "component_name": "COMPONENT_AT_PI_SUPP",
+                "component_hash": 3271853210,
+                "component_gxtString_Name": "WCT_SUPP",
+                "component_gxtString_Desc": "WCD_PI_SUPP"
+            }
+        ],
+        "tints": [
+            {
+                "tint_Index": 0,
+                "tint_gtxStringName": "WM_TINT0"
+            },
+            {
+                "tint_Index": 1,
+                "tint_gtxStringName": "WM_TINT1"
+            },
+            {
+                "tint_Index": 2,
+                "tint_gtxStringName": "WM_TINT2"
+            },
+            {
+                "tint_Index": 3,
+                "tint_gtxStringName": "WM_TINT3"
+            },
+            {
+                "tint_Index": 4,
+                "tint_gtxStringName": "WM_TINT4"
+            },
+            {
+                "tint_Index": 5,
+                "tint_gtxStringName": "WM_TINT5"
+            },
+            {
+                "tint_Index": 6,
+                "tint_gtxStringName": "WM_TINT6"
+            },
+            {
+                "tint_Index": 7,
+                "tint_gtxStringName": "WM_TINT7"
+            }
+        ]
+    },
+    {
+        "weaponName": "weapon_doubleaction",
+        "weapon_hash": 2548703416,
+        "weapon_gxtString_Name": "WT_REV_DA",
+        "weapon_gxtString_Desc": "WTD_REV_DA",
+        "weapon_ammoType": "AMMO_PISTOL",
+        "components": [
+            {
+                "component_name": "COMPONENT_DOUBLEACTION_CLIP_01",
+                "component_hash": 1328622785,
+                "component_gxtString_Name": "WCT_CLIP1",
+                "component_gxtString_Desc": "WCD_REV_DA_CLIP"
+            }
+        ],
+        "tints": []
+    },
+    {
+        "weaponName": "weapon_navyrevolver",
+        "weapon_hash": 2441047180,
+        "weapon_gxtString_Name": "WT_REV_NV",
+        "weapon_gxtString_Desc": "WTD_REV_NV",
+        "weapon_ammoType": "AMMO_PISTOL",
+        "components": [
+            {
+                "component_name": "COMPONENT_NAVYREVOLVER_CLIP_01",
+                "component_hash": 2556346983,
+                "component_gxtString_Name": "WCT_CLIP1",
+                "component_gxtString_Desc": "WCD_REV_NV_CLIP"
+            }
+        ],
+        "tints": [
+            {
+                "tint_Index": 0,
+                "tint_gtxStringName": "WM_TINTDF"
+            }
+        ]
     }
 ]
