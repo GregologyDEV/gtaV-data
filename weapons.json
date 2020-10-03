@@ -5318,5 +5318,1107 @@
                 "tint_gtxStringName": "WCT_TINT_31"
             }
         ]
+    },
+    {
+        "weaponName": "weapon_compactrifle",
+        "weapon_hash": 1649403952,
+        "weapon_gxtString_Name": "WT_CMPRIFLE",
+        "weapon_gxtString_Desc": "WTD_CMPRIFLE",
+        "weapon_modelName" : "w_ar_assaultrifle_smg",
+        "weapon_ammoType": "AMMO_RIFLE",
+        "components": [
+            {
+                "component_name": "COMPONENT_COMPACTRIFLE_CLIP_01",
+                "component_hash": 1363085923,
+                "component_gxtString_Name": "WCT_CLIP1",
+                "component_gxtString_Desc": "WCD_CMPR_CLIP1",
+                "component_modelName": "w_ar_assaultrifle_smg_mag1"
+            },            
+            {
+                "component_name": "COMPONENT_COMPACTRIFLE_CLIP_02",
+                "component_hash": 1509923832,
+                "component_gxtString_Name": "WCT_CLIP2",
+                "component_gxtString_Desc": "WCD_CMPR_CLIP2",
+                "component_modelName": "w_ar_assaultrifle_smg_mag2"
+            },    
+            {
+                "component_name": "COMPONENT_COMPACTRIFLE_CLIP_03",
+                "component_hash": 3322377230,
+                "component_gxtString_Name": "WCT_CLIP_DRM",
+                "component_gxtString_Desc": "WCD_CLIP3",
+                "component_modelName": "w_ar_assaultrifle_boxmag"
+            },    
+            {
+                "component_name": "COMPONENT_AT_AR_FLSH",
+                "component_hash": 2076495324,
+                "component_gxtString_Name": "WCT_FLASH",
+                "component_gxtString_Desc": "WCD_FLASH",
+                "component_modelName": "w_at_ar_flsh"
+            },    
+            {
+                "component_name": "COMPONENT_AT_SCOPE_MEDIUM",
+                "component_hash": 2698550338,
+                "component_gxtString_Name": "WCT_SCOPE_MED",
+                "component_gxtString_Desc": "WCD_SCOPE_MED",
+                "component_modelName": "w_at_scope_medium"
+            },    
+            {
+                "component_name": "COMPONENT_AT_AR_SUPP_02",
+                "component_hash": 2805810788,
+                "component_gxtString_Name": "WCT_SUPP",
+                "component_gxtString_Desc": "WCD_AR_SUPP2",
+                "component_modelName": "w_at_ar_supp_02"
+            },    
+            {
+                "component_name": "COMPONENT_AT_AR_AFGRIP",
+                "component_hash": 202788691,
+                "component_gxtString_Name": "WCT_GRIP",
+                "component_gxtString_Desc": "WCD_GRIP",
+                "component_modelName": "w_at_ar_afgrip"
+            },    
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_VARMOD_LOWRIDER",
+                "component_hash": 1929467122,
+                "component_gxtString_Name": "WCT_VAR_ETCHM",
+                "component_gxtString_Desc": "WCD_VAR_SCAR",
+                "component_modelName": "w_ar_specialcarbine_luxe"
+            }
+        ],
+        "tints": [
+            {
+                "tint_Index": 0,
+                "tint_gtxStringName": "WM_TINT0"
+            },
+            {
+                "tint_Index": 1,
+                "tint_gtxStringName": "WM_TINT1"
+            },
+            {
+                "tint_Index": 2,
+                "tint_gtxStringName": "WM_TINT2"
+            },
+            {
+                "tint_Index": 3,
+                "tint_gtxStringName": "WM_TINT3"
+            },
+            {
+                "tint_Index": 4,
+                "tint_gtxStringName": "WM_TINT4"
+            },
+            {
+                "tint_Index": 5,
+                "tint_gtxStringName": "WM_TINT5"
+            },
+            {
+                "tint_Index": 6,
+                "tint_gtxStringName": "WM_TINT6"
+            },
+            {
+                "tint_Index": 7,
+                "tint_gtxStringName": "WM_TINT7"
+            }
+        ]
+    },
+    {
+        "weaponName": "weapon_specialcarbine",
+        "weapon_hash": 3231910285,
+        "weapon_gxtString_Name": "WT_SPCARBINE",
+        "weapon_gxtString_Desc": "WTD_SPCARBINE",
+        "weapon_modelName" : "w_ar_specialcarbine",
+        "weapon_ammoType": "AMMO_RIFLE",
+        "components": [
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_CLIP_01",
+                "component_hash": 3334989185,
+                "component_gxtString_Name": "WCT_CLIP1",
+                "component_gxtString_Desc": "WCD_SCRB_CLIP1",
+                "component_modelName": "w_ar_specialcarbine_mag1"
+            },            
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_CLIP_02",
+                "component_hash": 2089537806,
+                "component_gxtString_Name": "WCT_CLIP2",
+                "component_gxtString_Desc": "WCD_SCRB_CLIP2",
+                "component_modelName": "w_ar_specialcarbine_mag2"
+            },    
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_CLIP_03",
+                "component_hash": 1801039530,
+                "component_gxtString_Name": "WCT_CLIP_DRM",
+                "component_gxtString_Desc": "WCD_CLIP3",
+                "component_modelName": "w_ar_specialcarbine_boxmag"
+            }
+        ],
+        "tints": [
+            {
+                "tint_Index": 0,
+                "tint_gtxStringName": "WM_TINT0"
+            },
+            {
+                "tint_Index": 1,
+                "tint_gtxStringName": "WM_TINT1"
+            },
+            {
+                "tint_Index": 2,
+                "tint_gtxStringName": "WM_TINT2"
+            },
+            {
+                "tint_Index": 3,
+                "tint_gtxStringName": "WM_TINT3"
+            },
+            {
+                "tint_Index": 4,
+                "tint_gtxStringName": "WM_TINT4"
+            },
+            {
+                "tint_Index": 5,
+                "tint_gtxStringName": "WM_TINT5"
+            },
+            {
+                "tint_Index": 6,
+                "tint_gtxStringName": "WM_TINT6"
+            },
+            {
+                "tint_Index": 7,
+                "tint_gtxStringName": "WM_TINT7"
+            }
+        ]
+    },
+    {
+        "weaponName": "weapon_specialcarbine_mk2",
+        "weapon_hash": 2526821735,
+        "weapon_gxtString_Name": "WT_SPCARBINE2",
+        "weapon_gxtString_Desc": "WTD_SPCARBINE2",
+        "weapon_modelName" : "w_ar_specialcarbinemk2",
+        "weapon_ammoType": "AMMO_RIFLE",
+        "components": [
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CLIP_01",
+                "component_hash": 382112385,
+                "component_gxtString_Name": "WCT_CLIP1",
+                "component_gxtString_Desc": "WCD_CLIP1",
+                "component_modelName": "w_ar_specialcarbinemk2_mag1"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CLIP_02",
+                "component_hash": 3726614828,
+                "component_gxtString_Name": "WCT_CLIP2",
+                "component_gxtString_Desc": "WCD_CLIP2",
+                "component_modelName": "w_ar_specialcarbinemk2_mag2"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CLIP_TRACER",
+                "component_hash": 2271594122,
+                "component_gxtString_Name": "WCT_CLIP_TR",
+                "component_gxtString_Desc": "WCD_CLIP_TR",
+                "component_modelName": "w_ar_specialcarbinemk2_mag_tr"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CLIP_INCENDIARY",
+                "component_hash": 3724612230,
+                "component_gxtString_Name": "WCT_CLIP_INC",
+                "component_gxtString_Desc": "WCD_CLIP_INC",
+                "component_modelName": "w_ar_specialcarbinemk2_mag_inc"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CLIP_ARMORPIERCING",
+                "component_hash": 1362433589,
+                "component_gxtString_Name": "WCT_CLIP_AP",
+                "component_gxtString_Desc": "WCD_CLIP_AP",
+                "component_modelName": "w_ar_specialcarbinemk2_mag_ap"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CLIP_FMJ",
+                "component_hash": 1346235024,
+                "component_gxtString_Name": "WCT_CLIP_FMJ",
+                "component_gxtString_Desc": "WCD_CLIP_FMJ",
+                "component_modelName": "w_ar_specialcarbinemk2_mag_fmj"
+            },
+            {
+                "component_name": "COMPONENT_AT_AR_AFGRIP_02",
+                "component_hash": 2640679034,
+                "component_gxtString_Name": "WCT_GRIP",
+                "component_gxtString_Desc": "WCD_GRIP",
+                "component_modelName": "w_at_afgrip_2"
+            },
+            {
+                "component_name": "COMPONENT_AT_AR_FLSH",
+                "component_hash": 2076495324,
+                "component_gxtString_Name": "WCT_FLASH",
+                "component_gxtString_Desc": "WCD_FLASH",
+                "component_modelName": "w_at_ar_flsh"
+            },
+            {
+                "component_name": "COMPONENT_AT_SIGHTS",
+                "component_hash": 1108334355,
+                "component_gxtString_Name": "WCT_HOLO",
+                "component_gxtString_Desc": "WCD_HOLO",
+                "component_modelName": "w_at_sights_1"
+            },
+            {
+                "component_name": "COMPONENT_AT_SCOPE_MACRO_MK2",
+                "component_hash": 77277509,
+                "component_gxtString_Name": "WCT_SCOPE_MAC2",
+                "component_gxtString_Desc": "WCD_SCOPE_MAC",
+                "component_modelName": "w_at_scope_macro"
+            },
+            {
+                "component_name": "COMPONENT_AT_SCOPE_MEDIUM_MK2",
+                "component_hash": 3328927042,
+                "component_gxtString_Name": "WCT_SCOPE_MED2",
+                "component_gxtString_Desc": "WCD_SCOPE_MED",
+                "component_modelName": "w_at_scope_medium_2"
+            },
+            {
+                "component_name": "COMPONENT_AT_AR_SUPP_02",
+                "component_hash": 2805810788,
+                "component_gxtString_Name": "WCT_SUPP",
+                "component_gxtString_Desc": "WCD_AR_SUPP2",
+                "component_modelName": "w_at_ar_supp"
+            },
+            {
+                "component_name": "COMPONENT_AT_SC_BARREL_01",
+                "component_hash": 3879097257,
+                "component_gxtString_Name": "WCT_BARR",
+                "component_gxtString_Desc": "WCD_BARR",
+                "component_modelName": "w_ar_sc_barrel_1"
+            },
+            {
+                "component_name": "COMPONENT_AT_SC_BARREL_02",
+                "component_hash": 4185880635,
+                "component_gxtString_Name": "WCT_BARR2",
+                "component_gxtString_Desc": "WCD_BARR2",
+                "component_modelName": "w_ar_sc_barrel_2"
+            },
+            {
+                "component_name": "COMPONENT_AT_MUZZLE_01",
+                "component_hash": 3113485012,
+                "component_gxtString_Name": "WCT_MUZZ1",
+                "component_gxtString_Desc": "WCD_MUZZ",
+                "component_modelName": "w_at_muzzle_1"
+            },
+            {
+                "component_name": "COMPONENT_AT_MUZZLE_02",
+                "component_hash": 3362234491,
+                "component_gxtString_Name": "WCT_MUZZ2",
+                "component_gxtString_Desc": "WCD_MUZZ",
+                "component_modelName": "w_at_muzzle_2"
+            },
+            {
+                "component_name": "COMPONENT_AT_MUZZLE_03",
+                "component_hash": 3725708239,
+                "component_gxtString_Name": "WCT_MUZZ3",
+                "component_gxtString_Desc": "WCD_MUZZ",
+                "component_modelName": "w_at_muzzle_3"
+            },
+            {
+                "component_name": "COMPONENT_AT_MUZZLE_04",
+                "component_hash": 3968886988,
+                "component_gxtString_Name": "WCT_MUZZ4",
+                "component_gxtString_Desc": "WCD_MUZZ",
+                "component_modelName": "w_at_muzzle_4"
+            },
+            {
+                "component_name": "COMPONENT_AT_MUZZLE_05",
+                "component_hash": 48731514,
+                "component_gxtString_Name": "WCT_MUZZ5",
+                "component_gxtString_Desc": "WCD_MUZZ",
+                "component_modelName": "w_at_muzzle_5"
+            },
+            {
+                "component_name": "COMPONENT_AT_MUZZLE_06",
+                "component_hash": 880736428,
+                "component_gxtString_Name": "WCT_MUZZ6",
+                "component_gxtString_Desc": "WCD_MUZZ",
+                "component_modelName": "w_at_muzzle_6"
+            },
+            {
+                "component_name": "COMPONENT_AT_MUZZLE_07",
+                "component_hash": 1303784126,
+                "component_gxtString_Name": "WCT_MUZZ7",
+                "component_gxtString_Desc": "WCD_MUZZ",
+                "component_modelName": "w_at_muzzle_7"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CAMO",
+                "component_hash": 3557537083,
+                "component_gxtString_Name": "WCT_CAMO_1",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_specialcarbinemk2_camo1"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CAMO_02",
+                "component_hash": 1125852043,
+                "component_gxtString_Name": "WCT_CAMO_2",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_specialcarbinemk2_camo2"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CAMO_03",
+                "component_hash": 886015732,
+                "component_gxtString_Name": "WCT_CAMO_3",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_specialcarbinemk2_camo3"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CAMO_04",
+                "component_hash": 3032680157,
+                "component_gxtString_Name": "WCT_CAMO_4",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_specialcarbinemk2_camo4"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CAMO_05",
+                "component_hash": 3999758885,
+                "component_gxtString_Name": "WCT_CAMO_5",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_specialcarbinemk2_camo5"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CAMO_06",
+                "component_hash": 3750812792,
+                "component_gxtString_Name": "WCT_CAMO_6",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_specialcarbinemk2_camo6"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CAMO_07",
+                "component_hash": 172765678,
+                "component_gxtString_Name": "WCT_CAMO_7",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_specialcarbinemk2_camo7"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CAMO_08",
+                "component_hash": 2312089847,
+                "component_gxtString_Name": "WCT_CAMO_8",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_specialcarbinemk2_camo8"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CAMO_09",
+                "component_hash": 2072122460,
+                "component_gxtString_Name": "WCT_CAMO_9",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_specialcarbinemk2_camo9"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CAMO_10",
+                "component_hash": 2308747125,
+                "component_gxtString_Name": "WCT_CAMO_10",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_specialcarbinemk2_camo10"
+            },
+            {
+                "component_name": "COMPONENT_SPECIALCARBINE_MK2_CAMO_IND_01",
+                "component_hash": 1377355801,
+                "component_gxtString_Name": "WCT_CAMO_IND",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_specialcarbinemk22_camo_ind"
+            }
+        ],
+        "tints": [
+            {
+                "tint_Index": 0,
+                "tint_gtxStringName": "WCT_TINT_0"
+            },
+            {
+                "tint_Index": 1,
+                "tint_gtxStringName": "WCT_TINT_1"
+            },
+            {
+                "tint_Index": 2,
+                "tint_gtxStringName": "WCT_TINT_2"
+            },
+            {
+                "tint_Index": 3,
+                "tint_gtxStringName": "WCT_TINT_3"
+            },
+            {
+                "tint_Index": 4,
+                "tint_gtxStringName": "WCT_TINT_4"
+            },
+            {
+                "tint_Index": 5,
+                "tint_gtxStringName": "WCT_TINT_5"
+            },
+            {
+                "tint_Index": 6,
+                "tint_gtxStringName": "WCT_TINT_6"
+            },
+            {
+                "tint_Index": 7,
+                "tint_gtxStringName": "WCT_TINT_7"
+            },
+            {
+                "tint_Index": 8,
+                "tint_gtxStringName": "WCT_TINT_8"
+            },
+            {
+                "tint_Index": 9,
+                "tint_gtxStringName": "WCT_TINT_9"
+            },
+            {
+                "tint_Index": 10,
+                "tint_gtxStringName": "WCT_TINT_10"
+            },
+            {
+                "tint_Index": 11,
+                "tint_gtxStringName": "WCT_TINT_11"
+            },
+            {
+                "tint_Index": 12,
+                "tint_gtxStringName": "WCT_TINT_12"
+            },
+            {
+                "tint_Index": 13,
+                "tint_gtxStringName": "WCT_TINT_13"
+            },
+            {
+                "tint_Index": 14,
+                "tint_gtxStringName": "WCT_TINT_14"
+            },
+            {
+                "tint_Index": 15,
+                "tint_gtxStringName": "WCT_TINT_15"
+            },
+            {
+                "tint_Index": 16,
+                "tint_gtxStringName": "WCT_TINT_16"
+            },
+            {
+                "tint_Index": 17,
+                "tint_gtxStringName": "WCT_TINT_17"
+            },
+            {
+                "tint_Index": 18,
+                "tint_gtxStringName": "WCT_TINT_18"
+            },
+            {
+                "tint_Index": 19,
+                "tint_gtxStringName": "WCT_TINT_19"
+            },
+            {
+                "tint_Index": 20,
+                "tint_gtxStringName": "WCT_TINT_20"
+            },
+            {
+                "tint_Index": 21,
+                "tint_gtxStringName": "WCT_TINT_21"
+            },
+            {
+                "tint_Index": 22,
+                "tint_gtxStringName": "WCT_TINT_22"
+            },
+            {
+                "tint_Index": 23,
+                "tint_gtxStringName": "WCT_TINT_23"
+            },
+            {
+                "tint_Index": 24,
+                "tint_gtxStringName": "WCT_TINT_24"
+            },
+            {
+                "tint_Index": 25,
+                "tint_gtxStringName": "WCT_TINT_25"
+            },
+            {
+                "tint_Index": 26,
+                "tint_gtxStringName": "WCT_TINT_26"
+            },
+            {
+                "tint_Index": 27,
+                "tint_gtxStringName": "WCT_TINT_27"
+            },
+            {
+                "tint_Index": 28,
+                "tint_gtxStringName": "WCT_TINT_28"
+            },
+            {
+                "tint_Index": 29,
+                "tint_gtxStringName": "WCT_TINT_29"
+            },
+            {
+                "tint_Index": 30,
+                "tint_gtxStringName": "WCT_TINT_30"
+            },
+            {
+                "tint_Index": 31,
+                "tint_gtxStringName": "WCT_TINT_31"
+            }
+        ]
+    },
+    {
+        "weaponName": "weapon_combatmg",
+        "weapon_hash": 2144741730,
+        "weapon_gxtString_Name": "WT_MG_CBT",
+        "weapon_gxtString_Desc": "WTD_MG_CBT",
+        "weapon_modelName" : "w_mg_combatmg",
+        "weapon_ammoType": "AMMO_MG",
+        "components": [
+            {
+                "component_name": "COMPONENT_COMBATMG_CLIP_01",
+                "component_hash": 3791631178,
+                "component_gxtString_Name": "WCT_CLIP1",
+                "component_gxtString_Desc": "WCDCMG_CLIP1",
+                "component_modelName": "w_mg_combatmg_mag1"
+            },            
+            {
+                "component_name": "COMPONENT_COMBATMG_CLIP_02",
+                "component_hash": 3603274966,
+                "component_gxtString_Name": "WCT_CLIP2",
+                "component_gxtString_Desc": "WCDCMG_CLIP2",
+                "component_modelName": "w_mg_combatmg_mag2"
+            },    
+            {
+                "component_name": "COMPONENT_AT_SCOPE_MEDIUM",
+                "component_hash": 2698550338,
+                "component_gxtString_Name": "WCT_SCOPE_MED",
+                "component_gxtString_Desc": "WCD_SCOPE_MED",
+                "component_modelName": "w_at_scope_medium"
+            },    
+            {
+                "component_name": "COMPONENT_AT_AR_AFGRIP",
+                "component_hash": 202788691,
+                "component_gxtString_Name": "WCT_GRIP",
+                "component_gxtString_Desc": "WCD_GRIP",
+                "component_modelName": "w_at_ar_afgrip"
+            },    
+            {
+                "component_name": "COMPONENT_COMBATMG_VARMOD_LOWRIDER",
+                "component_hash": 2466172125,
+                "component_gxtString_Name": "WCT_VAR_ETCHM",
+                "component_gxtString_Desc": "WCD_VAR_CBMG",
+                "component_modelName": "w_mg_combatmg_luxe"
+            }
+        ],
+        "tints": [
+            {
+                "tint_Index": 0,
+                "tint_gtxStringName": "WM_TINT0"
+            },
+            {
+                "tint_Index": 1,
+                "tint_gtxStringName": "WM_TINT1"
+            },
+            {
+                "tint_Index": 2,
+                "tint_gtxStringName": "WM_TINT2"
+            },
+            {
+                "tint_Index": 3,
+                "tint_gtxStringName": "WM_TINT3"
+            },
+            {
+                "tint_Index": 4,
+                "tint_gtxStringName": "WM_TINT4"
+            },
+            {
+                "tint_Index": 5,
+                "tint_gtxStringName": "WM_TINT5"
+            },
+            {
+                "tint_Index": 6,
+                "tint_gtxStringName": "WM_TINT6"
+            },
+            {
+                "tint_Index": 7,
+                "tint_gtxStringName": "WM_TINT7"
+            }
+        ]
+    },
+    {
+        "weaponName": "weapon_combatmg_mk2",
+        "weapon_hash": 3686625920,
+        "weapon_gxtString_Name": "WT_MG_CBT2",
+        "weapon_gxtString_Desc": "WTD_MG_CBT2",
+        "weapon_modelName" : "w_mg_combatmgmk2",
+        "weapon_ammoType": "AMMO_MG",
+        "components": [
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CLIP_01",
+                "component_hash": 1227564412,
+                "component_gxtString_Name": "WCT_CLIP1",
+                "component_gxtString_Desc": "WCD_CLIP1",
+                "component_modelName": "w_mg_combatmgmk2_mag1"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CLIP_02",
+                "component_hash": 400507625,
+                "component_gxtString_Name": "WCT_CLIP2",
+                "component_gxtString_Desc": "WCD_CLIP2",
+                "component_modelName": "w_mg_combatmgmk2_mag2"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CLIP_TRACER",
+                "component_hash": 4133787461,
+                "component_gxtString_Name": "WCT_CLIP_TR",
+                "component_gxtString_Desc": "WCD_CLIP_TR",
+                "component_modelName": "w_mg_combatmgmk2_mag_tr"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CLIP_INCENDIARY",
+                "component_hash": 3274096058,
+                "component_gxtString_Name": "WCT_CLIP_INC",
+                "component_gxtString_Desc": "WCD_CLIP_INC",
+                "component_modelName": "w_mg_combatmgmk2_mag_inc"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CLIP_ARMORPIERCING",
+                "component_hash": 696788003,
+                "component_gxtString_Name": "WCT_CLIP_AP",
+                "component_gxtString_Desc": "WCD_CLIP_AP",
+                "component_modelName": "w_mg_combatmgmk2_mag_ap"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CLIP_FMJ",
+                "component_hash": 1475288264,
+                "component_gxtString_Name": "WCT_CLIP_FMJ",
+                "component_gxtString_Desc": "WCD_CLIP_FMJ",
+                "component_modelName": "w_ar_specialcarbinemk2_mag_fmj"
+            },
+            {
+                "component_name": "COMPONENT_AT_AR_AFGRIP_02",
+                "component_hash": 2640679034,
+                "component_gxtString_Name": "WCT_GRIP",
+                "component_gxtString_Desc": "WCD_GRIP",
+                "component_modelName": "w_mg_combatmgmk2_mag_fmj"
+            },
+            {
+                "component_name": "COMPONENT_AT_AR_AFGRIP_02",
+                "component_hash": 2640679034,
+                "component_gxtString_Name": "WCT_GRIP",
+                "component_gxtString_Desc": "WCD_GRIP",
+                "component_modelName": "w_at_afgrip_2"
+            },
+            {
+                "component_name": "COMPONENT_AT_SIGHTS",
+                "component_hash": 1108334355,
+                "component_gxtString_Name": "WCT_HOLO",
+                "component_gxtString_Desc": "WCD_HOLO",
+                "component_modelName": "w_at_sights_1"
+            },
+            {
+                "component_name": "COMPONENT_AT_SCOPE_SMALL_MK2",
+                "component_hash": 1060929921,
+                "component_gxtString_Name": "WCT_SCOPE_SML2",
+                "component_gxtString_Desc": "WCD_SCOPE_SML",
+                "component_modelName": "w_at_scope_small"
+            },
+            {
+                "component_name": "COMPONENT_AT_SCOPE_MEDIUM_MK2",
+                "component_hash": 3328927042,
+                "component_gxtString_Name": "WCT_SCOPE_MED2",
+                "component_gxtString_Desc": "WCD_SCOPE_MED",
+                "component_modelName": "w_at_scope_medium_2"
+            },
+            {
+                "component_name": "COMPONENT_AT_AR_SUPP_02",
+                "component_hash": 2805810788,
+                "component_gxtString_Name": "WCT_SUPP",
+                "component_gxtString_Desc": "WCD_AR_SUPP2",
+                "component_modelName": "w_at_ar_supp"
+            },
+            {
+                "component_name": "COMPONENT_AT_MG_BARREL_01",
+                "component_hash": 3276730932,
+                "component_gxtString_Name": "WCT_BARR",
+                "component_gxtString_Desc": "WCD_BARR",
+                "component_modelName": "w_at_mg_barrel_1"
+            },
+            {
+                "component_name": "COMPONENT_AT_MG_BARREL_02",
+                "component_hash": 3051509595,
+                "component_gxtString_Name": "WCT_BARR2",
+                "component_gxtString_Desc": "WCD_BARR2",
+                "component_modelName": "w_at_mg_barrel_2"
+            },
+            {
+                "component_name": "COMPONENT_AT_MUZZLE_01",
+                "component_hash": 3113485012,
+                "component_gxtString_Name": "WCT_MUZZ1",
+                "component_gxtString_Desc": "WCD_MUZZ",
+                "component_modelName": "w_at_muzzle_1"
+            },
+            {
+                "component_name": "COMPONENT_AT_MUZZLE_02",
+                "component_hash": 3362234491,
+                "component_gxtString_Name": "WCT_MUZZ2",
+                "component_gxtString_Desc": "WCD_MUZZ",
+                "component_modelName": "w_at_muzzle_2"
+            },
+            {
+                "component_name": "COMPONENT_AT_MUZZLE_03",
+                "component_hash": 3725708239,
+                "component_gxtString_Name": "WCT_MUZZ3",
+                "component_gxtString_Desc": "WCD_MUZZ",
+                "component_modelName": "w_at_muzzle_3"
+            },
+            {
+                "component_name": "COMPONENT_AT_MUZZLE_04",
+                "component_hash": 3968886988,
+                "component_gxtString_Name": "WCT_MUZZ4",
+                "component_gxtString_Desc": "WCD_MUZZ",
+                "component_modelName": "w_at_muzzle_4"
+            },
+            {
+                "component_name": "COMPONENT_AT_MUZZLE_05",
+                "component_hash": 48731514,
+                "component_gxtString_Name": "WCT_MUZZ5",
+                "component_gxtString_Desc": "WCD_MUZZ",
+                "component_modelName": "w_at_muzzle_5"
+            },
+            {
+                "component_name": "COMPONENT_AT_MUZZLE_06",
+                "component_hash": 880736428,
+                "component_gxtString_Name": "WCT_MUZZ6",
+                "component_gxtString_Desc": "WCD_MUZZ",
+                "component_modelName": "w_at_muzzle_6"
+            },
+            {
+                "component_name": "COMPONENT_AT_MUZZLE_07",
+                "component_hash": 1303784126,
+                "component_gxtString_Name": "WCT_MUZZ7",
+                "component_gxtString_Desc": "WCD_MUZZ",
+                "component_modelName": "w_at_muzzle_7"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CAMO",
+                "component_hash": 1249283253,
+                "component_gxtString_Name": "WCT_CAMO_1",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_combatmgmk2_camo1"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CAMO_02",
+                "component_hash": 3437259709,
+                "component_gxtString_Name": "WCT_CAMO_2",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_combatmgmk2_camo2"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CAMO_03",
+                "component_hash": 3197423398,
+                "component_gxtString_Name": "WCT_CAMO_3",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_combatmgmk2_camo3"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CAMO_04",
+                "component_hash": 1980349969,
+                "component_gxtString_Name": "WCT_CAMO_4",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_combatmgmk2_camo4"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CAMO_05",
+                "component_hash": 1219453777,
+                "component_gxtString_Name": "WCT_CAMO_5",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_combatmgmk2_camo5"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CAMO_06",
+                "component_hash": 2441508106,
+                "component_gxtString_Name": "WCT_CAMO_6",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_combatmgmk2_camo6"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CAMO_07",
+                "component_hash": 2220186280,
+                "component_gxtString_Name": "WCT_CAMO_7",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_combatmgmk2_camo7"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CAMO_08",
+                "component_hash": 457967755,
+                "component_gxtString_Name": "WCT_CAMO_8",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_combatmgmk2_camo8"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CAMO_09",
+                "component_hash": 235171324,
+                "component_gxtString_Name": "WCT_CAMO_9",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_combatmgmk2_camo9"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CAMO_10",
+                "component_hash": 42685294,
+                "component_gxtString_Name": "WCT_CAMO_10",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_combatmgmk2_camo10"
+            },
+            {
+                "component_name": "COMPONENT_COMBATMG_MK2_CAMO_IND_01",
+                "component_hash": 3607349581,
+                "component_gxtString_Name": "WCT_CAMO_IND",
+                "component_gxtString_Desc": "WCD_INVALID",
+                "component_modelName": "w_ar_combatmgmk22_camo_ind"
+            }
+        ],
+        "tints": [
+            {
+                "tint_Index": 0,
+                "tint_gtxStringName": "WCT_TINT_0"
+            },
+            {
+                "tint_Index": 1,
+                "tint_gtxStringName": "WCT_TINT_1"
+            },
+            {
+                "tint_Index": 2,
+                "tint_gtxStringName": "WCT_TINT_2"
+            },
+            {
+                "tint_Index": 3,
+                "tint_gtxStringName": "WCT_TINT_3"
+            },
+            {
+                "tint_Index": 4,
+                "tint_gtxStringName": "WCT_TINT_4"
+            },
+            {
+                "tint_Index": 5,
+                "tint_gtxStringName": "WCT_TINT_5"
+            },
+            {
+                "tint_Index": 6,
+                "tint_gtxStringName": "WCT_TINT_6"
+            },
+            {
+                "tint_Index": 7,
+                "tint_gtxStringName": "WCT_TINT_7"
+            },
+            {
+                "tint_Index": 8,
+                "tint_gtxStringName": "WCT_TINT_8"
+            },
+            {
+                "tint_Index": 9,
+                "tint_gtxStringName": "WCT_TINT_9"
+            },
+            {
+                "tint_Index": 10,
+                "tint_gtxStringName": "WCT_TINT_10"
+            },
+            {
+                "tint_Index": 11,
+                "tint_gtxStringName": "WCT_TINT_11"
+            },
+            {
+                "tint_Index": 12,
+                "tint_gtxStringName": "WCT_TINT_12"
+            },
+            {
+                "tint_Index": 13,
+                "tint_gtxStringName": "WCT_TINT_13"
+            },
+            {
+                "tint_Index": 14,
+                "tint_gtxStringName": "WCT_TINT_14"
+            },
+            {
+                "tint_Index": 15,
+                "tint_gtxStringName": "WCT_TINT_15"
+            },
+            {
+                "tint_Index": 16,
+                "tint_gtxStringName": "WCT_TINT_16"
+            },
+            {
+                "tint_Index": 17,
+                "tint_gtxStringName": "WCT_TINT_17"
+            },
+            {
+                "tint_Index": 18,
+                "tint_gtxStringName": "WCT_TINT_18"
+            },
+            {
+                "tint_Index": 19,
+                "tint_gtxStringName": "WCT_TINT_19"
+            },
+            {
+                "tint_Index": 20,
+                "tint_gtxStringName": "WCT_TINT_20"
+            },
+            {
+                "tint_Index": 21,
+                "tint_gtxStringName": "WCT_TINT_21"
+            },
+            {
+                "tint_Index": 22,
+                "tint_gtxStringName": "WCT_TINT_22"
+            },
+            {
+                "tint_Index": 23,
+                "tint_gtxStringName": "WCT_TINT_23"
+            },
+            {
+                "tint_Index": 24,
+                "tint_gtxStringName": "WCT_TINT_24"
+            },
+            {
+                "tint_Index": 25,
+                "tint_gtxStringName": "WCT_TINT_25"
+            },
+            {
+                "tint_Index": 26,
+                "tint_gtxStringName": "WCT_TINT_26"
+            },
+            {
+                "tint_Index": 27,
+                "tint_gtxStringName": "WCT_TINT_27"
+            },
+            {
+                "tint_Index": 28,
+                "tint_gtxStringName": "WCT_TINT_28"
+            },
+            {
+                "tint_Index": 29,
+                "tint_gtxStringName": "WCT_TINT_29"
+            },
+            {
+                "tint_Index": 30,
+                "tint_gtxStringName": "WCT_TINT_30"
+            },
+            {
+                "tint_Index": 31,
+                "tint_gtxStringName": "WCT_TINT_31"
+            }
+        ]
+    },
+    {
+        "weaponName": "weapon_gusenberg",
+        "weapon_hash": 1627465347,
+        "weapon_gxtString_Name": "WT_GUSNBRG",
+        "weapon_gxtString_Desc": "WTD_GUSNBRG",
+        "weapon_modelName" : "w_sb_gusenberg",
+        "weapon_ammoType": "AMMO_MG",
+        "components": [
+            {
+                "component_name": "COMPONENT_GUSENBERG_CLIP_01",
+                "component_hash": 484812453,
+                "component_gxtString_Name": "WCT_CLIP1",
+                "component_gxtString_Desc": "WCD_GSNB_CLIP1",
+                "component_modelName": "w_sb_gusenberg_mag1"
+            },            
+            {
+                "component_name": "COMPONENT_GUSENBERG_CLIP_02",
+                "component_hash": 3939025520,
+                "component_gxtString_Name": "WCT_CLIP2",
+                "component_gxtString_Desc": "WCD_GSNB_CLIP2",
+                "component_modelName": "w_sb_gusenberg_mag2"
+            }
+        ],
+        "tints": [
+            {
+                "tint_Index": 0,
+                "tint_gtxStringName": "WM_TINT0"
+            },
+            {
+                "tint_Index": 1,
+                "tint_gtxStringName": "WM_TINT1"
+            },
+            {
+                "tint_Index": 2,
+                "tint_gtxStringName": "WM_TINT2"
+            },
+            {
+                "tint_Index": 3,
+                "tint_gtxStringName": "WM_TINT3"
+            },
+            {
+                "tint_Index": 4,
+                "tint_gtxStringName": "WM_TINT4"
+            },
+            {
+                "tint_Index": 5,
+                "tint_gtxStringName": "WM_TINT5"
+            },
+            {
+                "tint_Index": 6,
+                "tint_gtxStringName": "WM_TINT6"
+            },
+            {
+                "tint_Index": 7,
+                "tint_gtxStringName": "WM_TINT7"
+            }
+        ]
+    },
+    {
+        "weaponName": "weapon_mg",
+        "weapon_hash": 2634544996,
+        "weapon_gxtString_Name": "WT_MG",
+        "weapon_gxtString_Desc": "WTD_MG",
+        "weapon_modelName" : "w_mg_mg",
+        "weapon_ammoType": "AMMO_MG",
+        "components": [
+            {
+                "component_name": "COMPONENT_MG_CLIP_01",
+                "component_hash": 4097109892,
+                "component_gxtString_Name": "WCT_CLIP1",
+                "component_gxtString_Desc": "WCD_MG_CLIP1",
+                "component_modelName": "w_mg_mg_mag1"
+            },            
+            {
+                "component_name": "COMPONENT_MG_CLIP_02",
+                "component_hash": 2182449991,
+                "component_gxtString_Name": "WCT_CLIP2",
+                "component_gxtString_Desc": "WCD_MG_CLIP2",
+                "component_modelName": "w_mg_mg_mag2"
+            },
+            {
+                "component_name": "COMPONENT_AT_SCOPE_SMALL_02",
+                "component_hash": 1006677997,
+                "component_gxtString_Name": "WCT_SCOPE_SML",
+                "component_gxtString_Desc": "WCD_SCOPE_SML",
+                "component_modelName": "w_at_scope_small_2"
+            },
+            {
+                "component_name": "COMPONENT_MG_VARMOD_LOWRIDER",
+                "component_hash": 3604658878,
+                "component_gxtString_Name": "WCT_VAR_GOLD",
+                "component_gxtString_Desc": "WCD_VAR_MG",
+                "component_modelName": "w_mg_mg_luxe"
+            }
+        ],
+        "tints": [
+            {
+                "tint_Index": 0,
+                "tint_gtxStringName": "WM_TINT0"
+            },
+            {
+                "tint_Index": 1,
+                "tint_gtxStringName": "WM_TINT1"
+            },
+            {
+                "tint_Index": 2,
+                "tint_gtxStringName": "WM_TINT2"
+            },
+            {
+                "tint_Index": 3,
+                "tint_gtxStringName": "WM_TINT3"
+            },
+            {
+                "tint_Index": 4,
+                "tint_gtxStringName": "WM_TINT4"
+            },
+            {
+                "tint_Index": 5,
+                "tint_gtxStringName": "WM_TINT5"
+            },
+            {
+                "tint_Index": 6,
+                "tint_gtxStringName": "WM_TINT6"
+            },
+            {
+                "tint_Index": 7,
+                "tint_gtxStringName": "WM_TINT7"
+            }
+        ]
     }
 ]
